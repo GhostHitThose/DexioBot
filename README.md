@@ -57,6 +57,6 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 
 Nathan - @codingn1
-Max - @GhostHitThose
+Max - @maxrenner101
 
 Project Link: https://github.com/nathandevelop/DexioBot
